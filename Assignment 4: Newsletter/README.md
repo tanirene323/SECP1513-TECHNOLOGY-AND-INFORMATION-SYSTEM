@@ -4,9 +4,9 @@
 
 We visited Johor Port Berhad on 8 January 2026. After listening to the staff's explanation, I gained a lot and made a newsletter with my group members.
 
-![P1](Newsletter1.png)
-![P2](Newsletter2.png)
-![P3](Newsletter3.png)
+![P1](Newsletter1.jpg)
+![P2](Newsletter2.jpg)
+![P3](Newsletter3.jpg)
 
 [Click here to view the Newsletter (PDF)](./TIS%20NEWSLETTER%20ASSIGNMENT%204.pdf)
 
