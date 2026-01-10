@@ -6,7 +6,7 @@ Through the Industrial Talk 2 shared by **Ts. Hj. Abdul Alim**, our group design
 ![Page2](Poster2.png)
 ![Page3](Poster3.png)
 
-[Click here to view my Lab Report (PDF)](./TIS%20Assignment3.pdf)
+[Click here to view my Report (PDF)](./TIS%20Assignment3.pdf)
 
 ---
 
