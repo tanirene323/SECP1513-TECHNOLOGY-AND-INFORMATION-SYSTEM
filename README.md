@@ -7,7 +7,6 @@ Hi! I'm **Tan Irene**, a first-year student at **Universiti Teknologi Malaysia**
 | Personal Details | Information |
 | :--- | :--- |
 | **Name** | Tan Irene |
-| **Matric Number** | A25CS0357 |
 | **University** | Universiti Teknologi Malaysia |
 | **Program** | Bachelor of Computer Science (Network & Security) |
 | **Year of Study** | Year 1 |
